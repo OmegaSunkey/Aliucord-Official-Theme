@@ -1,0 +1,37 @@
+{
+    "manifest": {
+        "author": "omegasunkey#0",
+        "version": "0.0.2",
+        "name": "Aliucord",
+        "transparency_mode": 0,
+        "license": "Unlicense"
+    },
+    "background": {},
+    "simple_colors": {
+        "background": -13487056,
+        "background_secondary": -12301758,
+        "accent": -10181288
+    },
+    "colors": {
+        "brand_new_260": -8331409,
+        "brand_500_alpha_20": 860531001,
+        "status_yellow_500_alpha_10": 444653423,
+        "status_yellow_500": -11884231,
+        "primary_dark_300": -3214142,
+        "link": -8331409,
+        "primary_dark_360": -3214142,
+        "brand_new_560": -11884231,
+        "uikit_settings_item_text_color_light": -10181288,
+        "primary_dark_400": -1510682,
+        "primary_dark_330": -1510682
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -10181288,
+        "ic_channel_text": -3214142,
+        "ic_sidebar_notifications_on_dark_24dp": -3214142,
+        "ic_sidebar_pins_off_dark_24dp": -3214142,
+        "ic_guild_folder": -3214142
+    },
+    "fonts": {},
+    "raws": {}
+}
