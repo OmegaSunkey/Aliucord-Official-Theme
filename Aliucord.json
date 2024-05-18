@@ -4,7 +4,8 @@
         "version": "0.0.2",
         "name": "Aliucord",
         "transparency_mode": 0,
-        "license": "Unlicense"
+        "license": "Unlicense",
+        "updater": "https:\/\/raw.githubusercontent.com\/OmegaSunkey\/Aliucord-Official-Theme\/main\/Aliucord.json"
     },
     "background": {},
     "simple_colors": {
