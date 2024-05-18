@@ -4,14 +4,14 @@
         "version": "0.0.2",
         "name": "Aliucord",
         "transparency_mode": 0,
-        "license": "Unlicense",
-        "updater": "https:\/\/raw.githubusercontent.com\/OmegaSunkey\/Aliucord-Official-Theme\/main\/Aliucord.json"
+        "license": "Unlicense"
     },
     "background": {},
     "simple_colors": {
         "background": -13487056,
         "background_secondary": -12301758,
-        "accent": -10181288
+        "accent": -10181288,
+        "blocked_bg": -14276828
     },
     "colors": {
         "brand_new_260": -8331409,
@@ -24,7 +24,8 @@
         "brand_new_560": -11884231,
         "uikit_settings_item_text_color_light": -10181288,
         "primary_dark_400": -1510682,
-        "primary_dark_330": -1510682
+        "primary_dark_330": -1510682,
+        "uikit_btn_bg_color_selector_red": -10181288
     },
     "drawable_tints": {
         "drawable_overlay_channels_selected_dark": -10181288,
